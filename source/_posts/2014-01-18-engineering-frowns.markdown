@@ -18,6 +18,7 @@ Ok yes, so the title of this article doesn't suit with whatever I have written t
 
 <blockquote class="twitter-tweet" lang="en"><p>Some educators, who are quick to say &quot;These students just don&#39;t want to learn”, should instead be saying &quot;I suck at my job”.</p>&mdash; Neil deGrasse Tyson (@neiltyson) <a href="https://twitter.com/neiltyson/statuses/420755108926730240">January 8, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 
 <strong>Incident -1</strong>: Happened back in my 3rd year or so. For some horror reason, I had to get into the IT dept. staff room. And Woila, I see 3 - 4 permanent lecturers of mine sitting in the staff room. Thats a rare sight in any case. Theres a discussion going on. Without question, I lend them my ears. The discussion is about paper valuation and the headaches it brought about. Count the number of pages, scribble over it and then put a pass mark - its a damn tedious task you know. Anyways one of my awesome tutors show up a real happy face with this statement - 'This guy has written like 3 pages for this 15 marks question but I intend to give him only a mere 3.' The next goon in line follows it up with a nice shocker - 'HaHaHa...not a big deal. I gave only 15 marks for the whole paper I went through just now. Let him do it once more.' and I got to know how examination papers were evaluated!
 
