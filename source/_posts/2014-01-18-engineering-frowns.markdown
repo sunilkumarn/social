@@ -34,7 +34,7 @@ One of my classmates finds it difficult to pass her labs even after an unusual e
 <hr>
 
 <br>
-I believe that words shouldn't be used to bring about personal grudges. No way is anything above personal. I just wrote it down to reflect the mindsets of a <strong>filthy fraction of an awesome community</strong>. Of course we had great lecturers too. <strong>Vasudevan Sir, Shajeeb Sir, Raneeja mam, Prathibha Mam</strong> and quite a lot of others. But the ones I mentioned in those incidents are some of the most unprofessional and sadistic people I have met on earth. People who covered up 4 modules of a syllabus in 4 lectures and just took of to a malgudy planet after that. No one dared a question.
+I believe that words shouldn't be used to settle about personal grudges. No way is anything above personal. I just wrote it down to reflect the mindsets of a <strong>filthy fraction of an awesome community</strong>. Of course we had great lecturers too. <strong>Vasudevan Sir, Shajeeb Sir, Raneeja mam, Prathibha Mam</strong> and quite a lot of others. But the ones I mentioned in those incidents are some of the most unprofessional and sadistic people I have met on earth. People who covered up 4 modules of a syllabus in 4 lectures and just took of to a malgudy planet after that. No one dared a question.
 
 Might be a bit outrageous, but from what I have heard from my friends and my mother ( who happens to be lecturer herself ) this is a greater problem. <strong>In every profession, the remuneration, rewards & appraisals of an individual is dependent on the result or the outcome of the effort put in. If not, atleast by some standard metric which indicates performance</strong>. So if thats the case, whats the measurable here?
 
