@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://sunilkumarn.github.io/social
+url: http://drones.sunilnkumar.com
 title: Scribblings
 subtitle: ~ scribbling down thoughts
 author: Sunil Kumar
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/github
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
