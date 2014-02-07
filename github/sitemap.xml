@@ -2,6 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://drones.sunilnkumar.com/2013/10/12/through-the-commoners-eye/</loc>
+<<<<<<< HEAD
         <lastmod>2014-02-06T23:44:32+05:30</lastmod>
     </url>
     <url>
@@ -23,5 +24,28 @@
     <url>
         <loc>http://drones.sunilnkumar.com/search.html</loc>
         <lastmod>2014-02-06T23:44:32+05:30</lastmod>
+=======
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://drones.sunilnkumar.com/2014/01/18/engineering-frowns/</loc>
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://drones.sunilnkumar.com/about/</loc>
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://drones.sunilnkumar.com/blog/archives/</loc>
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://drones.sunilnkumar.com/</loc>
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://drones.sunilnkumar.com/search.html</loc>
+        <lastmod>2014-02-07T11:40:27+05:30</lastmod>
+>>>>>>> c2c853ad4ece0e52dc4469afc3579a63d907c525
     </url>
 </urlset>
